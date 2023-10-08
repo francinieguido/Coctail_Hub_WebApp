@@ -1,9 +1,9 @@
-import React from 'react'
+import React from 'react';
+import { Navbar } from '../components/Navbar';
 
 export const Home = () => {
   return (
     <>
-    <h1>HOME</h1>
     {/*Search bar*/}
     {/*Cocktail list*/}
     </>
