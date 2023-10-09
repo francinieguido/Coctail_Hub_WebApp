@@ -1,5 +1,5 @@
 import './App.css';
-import { Home } from './pages';
+import { Home } from './pages/Home';
 import { SingleCocktail } from './pages/SingleCocktail';
 import { Navbar } from './components/Navbar';
 
