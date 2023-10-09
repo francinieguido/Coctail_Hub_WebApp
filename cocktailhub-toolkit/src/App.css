@@ -152,9 +152,12 @@ img {
 
 /* Search input*/
 .search {
+  width: 100%;
   margin-top: 1rem;
   padding-bottom: 0;
   margin-bottom: 5rem;
+  padding-left: 15rem;
+  padding-right: 15rem;
 }
 
 .search-form {

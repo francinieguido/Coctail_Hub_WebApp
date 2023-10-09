@@ -7,7 +7,7 @@ export const SearchInput = () => {
 
   return (
     <>
-      <section className='section search'>
+      <section className='section search '>
         <form className="search">
           <div className="form-control">
             <label htmlFor="name">Search Cocktail</label>
